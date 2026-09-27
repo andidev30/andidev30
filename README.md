@@ -1,13 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6d28d9,100:06b6d4&height=200&section=header&text=Hi,%20I'm%20Andi&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%E2%80%A2%20AI%20Agent%20Builder&descAlignY=58&descSize=18" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C2230,100:2E3A50&height=200&section=header&text=Hi,%20I'm%20Andi&fontSize=56&fontColor=EEF0F2&animation=fadeIn&fontAlignY=38&desc=Senior%20Fullstack%20Engineer%20%E2%80%A2%20Generative%20AI&descAlignY=58&descSize=18&descColor=E2B458" width="100%" alt="Header" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+AI+agents+that+actually+ship;TypeScript+%E2%80%A2+Go+%E2%80%A2+Python;Hackathon+enjoyer+%F0%9F%9A%80;Freelance+%E2%80%94+open+for+projects" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=E2B458&center=true&vCenter=true&width=640&lines=5%2B+years+building+cloud+apps+on+Node.js;Conversational+AI+%E2%80%A2+RAG+%E2%80%A2+AI+agents;AWS+%2B+GCP+certified;Open+for+freelance+projects" alt="Typing SVG" /></a>
 
 <p>
-  <a href="https://andidev30.github.io"><img src="https://img.shields.io/badge/Website-andidev30.github.io-6d28d9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://andidev30.github.io"><img src="https://img.shields.io/badge/Website-andidev30.github.io-1C2230?style=for-the-badge&logo=googlechrome&logoColor=E2B458" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/andidev30"><img src="https://img.shields.io/badge/LinkedIn-andidev30-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://t.me/andidev30"><img src="https://img.shields.io/badge/Telegram-@andidev30-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <img src="https://komarev.com/ghpvc/?username=andidev30&style=for-the-badge&color=0f172a&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=andidev30&style=for-the-badge&color=1C2230&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 </div>
@@ -18,25 +19,33 @@
 
 ```ts
 const andi = {
-  role: "Fullstack Developer",
-  status: "Freelance — open for collaboration",
-  focus: ["AI Agents", "LLM-powered apps", "Cloud-native backends"],
+  role: "Senior Fullstack Engineer",
+  location: "Jakarta, Indonesia",
+  experience: "5+ years building scalable cloud applications",
+  focus: ["Generative AI", "Conversational AI & RAG", "AI agents", "System design"],
   stack: {
-    languages: ["TypeScript", "JavaScript", "Go", "Python", "PHP"],
-    backend: ["Node.js", "NestJS", "Laravel", "Mastra"],
-    frontend: ["React", "Next.js"],
-    cloud: ["AWS", "Google Cloud", "Elastic"],
+    primary: ["TypeScript", "JavaScript", "Node.js", "NestJS", "Express", "React", "MySQL", "Redis", "AWS", "Docker"],
+    familiar: ["Go", "Java", "Next.js", "Spring Boot", "PostgreSQL", "MongoDB", "GCP", "Kubernetes", "Terraform", "GraphQL"],
+    ai: ["LangGraph", "LangChain", "Mastra", "CrewAI", "Google Gen AI"],
   },
-  funFact: "I learn best by joining hackathons 🏁",
+  certifications: ["Google Associate Cloud Engineer (2024)", "AWS Certified Cloud Practitioner (2023)"],
+  status: "Open for freelance projects",
 };
 ```
+
+**What I've done lately**
+- 👥 Led a team of 5 engineers and set the technical roadmap and architecture standards
+- 🤖 Led AI R&D: core Node.js services for conversational AI, RAG and summarization
+- 🏆 Built the core services for award-winning AI customer service tools on GCP
+- ☁️ Moved on-premise services to a high-availability AWS architecture
+- ⚙️ Built a low-code platform that generates GraphQL and REST APIs automatically
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,go,python,php,nodejs,nestjs,react,nextjs,tailwind,laravel&perline=11" alt="Languages & frameworks" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express,react,nextjs,go,java,spring,graphql&perline=11" alt="Languages & frameworks" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,docker,postgres,mysql,mongodb,redis,elasticsearch,git,github,vscode&perline=12" alt="Tools & cloud" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,mysql,redis,postgres,mongodb,supabase,gitlab,jenkins&perline=12" alt="Tools & cloud" />
 </p>
 
 ### 🚀 Featured Projects
@@ -95,7 +104,7 @@ const andi = {
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=andidev30&background=0d1117&border=6d28d9&ring=a78bfa&fire=06b6d4&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=94a3b8&stroke=1e293b&border_radius=12" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=andidev30&background=1C2230&border=2E3A50&ring=E2B458&fire=E2B458&currStreakNum=EEF0F2&sideNums=EEF0F2&currStreakLabel=E2B458&sideLabels=A9B8CC&dates=9AA3B2&stroke=2E3A50&border_radius=12" alt="GitHub streak" />
 </div>
 
 <div align="center">
@@ -110,8 +119,8 @@ const andi = {
 
 <div align="center">
 
-**💬 Got a project or an idea? Let's build it together — ping me on [Telegram](https://t.me/andidev30).**
+**💬 Got a project or an idea? Let's build it together — ping me on [Telegram](https://t.me/andidev30) or [LinkedIn](https://www.linkedin.com/in/andidev30).**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:6d28d9,100:0f172a&height=120&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3A50,100:1C2230&height=120&section=footer" width="100%" alt="Footer" />
 
 </div>
