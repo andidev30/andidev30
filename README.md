@@ -25,7 +25,7 @@ const andi = {
     languages: ["TypeScript", "JavaScript", "Go", "Python", "PHP"],
     backend: ["Node.js", "NestJS", "Laravel", "Mastra"],
     frontend: ["React", "Next.js"],
-    cloud: ["Google Cloud", "Elastic"],
+    cloud: ["AWS", "Google Cloud", "Elastic"],
   },
   funFact: "I learn best by joining hackathons 🏁",
 };
@@ -36,7 +36,7 @@ const andi = {
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,go,python,php,nodejs,nestjs,react,nextjs,tailwind,laravel&perline=11" alt="Languages & frameworks" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=gcp,firebase,docker,postgres,mysql,mongodb,redis,elasticsearch,git,github,vscode&perline=11" alt="Tools & cloud" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,docker,postgres,mysql,mongodb,redis,elasticsearch,git,github,vscode&perline=12" alt="Tools & cloud" />
 </p>
 
 ### 🚀 Featured Projects
